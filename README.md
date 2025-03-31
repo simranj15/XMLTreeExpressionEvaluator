@@ -12,8 +12,7 @@ Implements:
 - XMLTreeIntExpressionEvaluator: uses Java primitive int
 - XMLTreeNNExpressionEvaluator: uses NaturalNumber for arbitrary-size values
 
-🧰 Tech Stack
-Language: Java
+Run By:Java
 Input/Output: SimpleReader and SimpleWriter components
 
 Concepts
